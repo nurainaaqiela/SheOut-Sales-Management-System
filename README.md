@@ -138,24 +138,25 @@ The six forms cover customer, bag, sales, payment, product and material informat
 
 ![SheOut List of Forms](sheout-list-form.png)
 
-### Data Entry Forms
+The SheOut system provides six data-entry forms to manage and maintain business records. Each form allows users to add, save, update, delete and navigate through the relevant records.
 
-The system includes six data-entry forms:
-
-- Customer Form
-- Bag Form
-- Sales Form
-- Payment Form
-- Product Form
-- Material Form
-
-Users can add, save, edit, delete and navigate records through the available forms.
-
+1. **Customer Form** – Manages customer information and maintains customer records.
 ![SheOut Data Entry Forms](sheout-customer-form.png)
+
+2. **Bag Form** – Manages bag details, including product information such as bag attributes and specifications.
 ![SheOut Data Entry Forms](sheout-bag-form.png)
+   
+3. **Sales Form** – Records and manages sales transactions involving customers and bags.
 ![SheOut Data Entry Forms](sheout-sales-form.png)
+
+4. **Payment Form** – Maintains customer payment information and payment transaction records.
 ![SheOut Data Entry Forms](sheout-payment-form.png)
+
+
+5. **Product Form** – Manages product information and details associated with the bags sold by SheOut.
 ![SheOut Data Entry Forms](sheout-product-form.png)
+
+6. **Material Form** – Maintains information about the materials used in the bags.
 ![SheOut Data Entry Forms](sheout-material-form.png)
 
 ### Available Reports
@@ -164,11 +165,39 @@ The system includes a **List of Report** interface that displays the different t
 
 ![SheOut List of Reports](sheout-main-report-form.png)
 
-### Report Generation
+The SheOut system provides 10 generated reports to help organise and retrieve business information. These reports cover customer purchases, payment transactions, product pricing, sales performance, inventory and discounts.
 
-The system generates reports containing business information related to customer records, products, inventory and sales transactions. These outputs present database information in a more organised and accessible format.
+1. **Customers Who Purchased Canvas Bags** – Displays customer records for those who purchased canvas bags.
+![SheOut List of Reports](sheout-canvas-material-report.png)
 
-####
+2. **Customers Who Paid Using VISA** – Displays customers who paid using VISA for bags priced at RM50 and above.
+![SheOut List of Reports](sheout-paybyvisa-report.png)
+
+
+3. **Average Bag Price by Product Type** – Presents the average bag price for each product type.
+![SheOut List of Reports](sheout-averageprice-report.png)
+
+
+4. **Customers Who Purchased Blue Bags** – Displays customer records for those who purchased blue bags.
+![SheOut List of Reports](sheout-bluecolor-report.png)
+
+5. **November 2022 Sales and Stock Balance** – Shows sales records for November 2022 together with the remaining stock balance.
+![SheOut List of Reports](sheout-soldbag-report.png)
+
+6. **Discounted Bag Prices** – Displays bag prices after applying a 5% discount to bags originally priced between RM50 and RM120.
+![SheOut List of Reports](sheout-discount-report.png)
+
+7. **Total Sales Value** – Presents the total value of bags sold.
+![SheOut List of Reports](sheout-sumsold-report.png)
+
+8. **Customer Payment Records** – Displays customer payment information and transaction records.
+![SheOut List of Reports](sheout-sumpay-report.png)
+
+9. **Bag Quantity by Size** – Shows the total quantity of bags across sizes XS, S, M, L and XL.
+![SheOut List of Reports](sheout-bagbysize-report.png)
+
+10. **Highest Bag Price** – Identifies the bag with the maximum price.
+![SheOut List of Reports](sheout-maxprice-report.png)
 
 ## 🌟 06. Project Highlights
 
