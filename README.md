@@ -152,6 +152,9 @@ The system includes six data-entry forms:
 Users can add, save, edit, delete and navigate records through the available forms.
 
 ![SheOut Data Entry Forms](sheout-customer-form.png)
+![SheOut Data Entry Forms](sheout-bag-form.png)
+![SheOut Data Entry Forms](sheout-sales-form.png)
+![SheOut Data Entry Forms](sheout-payment-form.png)
 
 ### Available Reports
 
