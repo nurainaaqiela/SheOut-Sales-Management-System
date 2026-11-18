@@ -223,7 +223,7 @@ It also demonstrated how database forms and reports can support more organised r
 
 | Category | Tools / Concepts |
 |---|---|
-| Database Platform | Microsoft Access 2019 |
+| Database Platform | Microsoft Access |
 | Query Language | SQL |
 | Database Modelling | Entity Relationship Diagram (ERD) |
 | Database Design | Relational schema, primary keys and foreign keys |
