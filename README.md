@@ -136,7 +136,7 @@ The system provides a dedicated list of available forms for accessing and managi
 
 The six forms cover customer, bag, sales, payment, product and material information, allowing users to navigate to the relevant data-entry interface.
 
-![SheOut List of Forms](sheout-list-of-forms.png)
+![SheOut List of Forms](sheout-list-form.png)
 
 ### Data Entry Forms
 
@@ -151,7 +151,7 @@ The system includes six data-entry forms:
 
 Users can add, save, edit, delete and navigate records through the available forms.
 
-![SheOut Data Entry Forms](sheout-data-entry-forms.png)
+![SheOut Data Entry Forms](sheout-customer-form.png)
 
 ### Available Reports
 
@@ -159,7 +159,7 @@ The system also provides a dedicated list of available reports, making it easier
 
 These reports cover various aspects of the business, including customer, product, inventory and sales information.
 
-![SheOut List of Reports](sheout-list-of-reports.png)
+![SheOut List of Reports](sheout-main-report-form.png)
 
 ### Report Generation
 
@@ -167,7 +167,7 @@ The reporting interface provides access to **21 report outputs** presenting diff
 
 These reports support the retrieval and presentation of customer, product, inventory and sales records.
 
-![SheOut Sales Reports](sheout-sales-reports.png)
+![SheOut Sales Reports](sheout-sales-form.png)
 
 ## 🌟 06. Project Highlights
 
