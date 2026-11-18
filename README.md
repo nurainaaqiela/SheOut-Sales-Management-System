@@ -6,7 +6,7 @@
 
 The **SheOut Sales Management System** is an academic group project that explores how relational database design and SQL can improve the way a retail business organises and manages its information.
 
-Developed using **Microsoft Access**, the system brings together customer records, product details, bag inventory, sales transactions and payment information in a structured database. It also features data-entry forms, SQL queries and report generation to support business information management and analysis.
+Developed using **Microsoft Access 2019**, the system brings together customer records, product details, bag inventory, sales transactions and payment information in a structured database. It also features data-entry forms, SQL queries and report generation to support business information management and analysis.
 
 ---
 
@@ -16,7 +16,7 @@ Developed using **Microsoft Access**, the system brings together customer record
 |---|---|
 | Project | SheOut Sales Management System |
 | Industry | Retail / Fashion |
-| Database Platform | Microsoft Access |
+| Database Platform | Microsoft Access 2019 |
 | Query Language | SQL |
 | Database Design | Entity Relationship Diagram (ERD) |
 | Normalisation | Third Normal Form (3NF) |
@@ -130,6 +130,14 @@ The main menu provides navigation to the system's available forms and reports.
 
 ![SheOut Main Menu](images/sheout-main-menu.png)
 
+### Available Forms
+
+The system provides a dedicated list of available forms for accessing and managing different types of business records.
+
+The six forms cover customer, bag, sales, payment, product and material information, allowing users to navigate to the relevant data-entry interface.
+
+![SheOut List of Forms](images/sheout-list-of-forms.png)
+
 ### Data Entry Forms
 
 The system includes six data-entry forms:
@@ -144,6 +152,14 @@ The system includes six data-entry forms:
 Users can add, save, edit, delete and navigate records through the available forms.
 
 ![SheOut Data Entry Forms](images/sheout-data-entry-forms.png)
+
+### Available Reports
+
+The system also provides a dedicated list of available reports, making it easier to identify and access the different report outputs.
+
+These reports cover various aspects of the business, including customer, product, inventory and sales information.
+
+![SheOut List of Reports](images/sheout-list-of-reports.png)
 
 ### Report Generation
 
@@ -185,11 +201,9 @@ It also demonstrated how database forms and reports can support more organised r
 | SQL Concepts | DDL, DML, filtering, aggregation, grouping and multi-table queries |
 | System Development | Data-entry forms, navigation and reports |
 
+## 🎓 08. Project Information
 
-## 🎓 09. Project Information
-
-- **Course:** ICT450 - Database Design and Development
+- **Course:** ICT450 - Database Design and Development 
 - **Programme:** Bachelor of Science (Hons.) Mathematics
 - **Year:** 2023
 - **Project Type:** Academic Group Project
-
