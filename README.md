@@ -6,7 +6,7 @@
 
 The **SheOut Sales Management System** is an academic group project that explores how relational database design and SQL can improve the way a retail business organises and manages its information.
 
-Developed using **Microsoft Access 2019**, the system brings together customer records, product details, bag inventory, sales transactions and payment information in a structured database. It also features data-entry forms, SQL queries and report generation to support business information management and analysis.
+Developed using **Microsoft Access**, the system brings together customer records, product details, bag inventory, sales transactions and payment information in a structured database. It also features data-entry forms, SQL queries and report generation to support business information management and analysis.
 
 ---
 
@@ -16,7 +16,7 @@ Developed using **Microsoft Access 2019**, the system brings together customer r
 |---|---|
 | Project | SheOut Sales Management System |
 | Industry | Retail / Fashion |
-| Database Platform | Microsoft Access 2019 |
+| Database Platform | Microsoft Access |
 | Query Language | SQL |
 | Database Design | Entity Relationship Diagram (ERD) |
 | Normalisation | Third Normal Form (3NF) |
@@ -185,9 +185,11 @@ It also demonstrated how database forms and reports can support more organised r
 | SQL Concepts | DDL, DML, filtering, aggregation, grouping and multi-table queries |
 | System Development | Data-entry forms, navigation and reports |
 
+
 ## 🎓 09. Project Information
 
 - **Course:** ICT450 - Database Design and Development
 - **Programme:** Bachelor of Science (Hons.) Mathematics
 - **Year:** 2023
 - **Project Type:** Academic Group Project
+
