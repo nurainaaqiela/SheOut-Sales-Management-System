@@ -188,10 +188,10 @@ The SheOut system provides 10 generated reports to help organise and retrieve bu
 ![SheOut List of Reports](sheout-discount-report.png)
 
 7. **Total Sales Value** – Presents the total value of bags sold.
-![SheOut List of Reports](sheout-sumsold-report.png)
+![SheOut List of Reports](sheout-sumsoldbag-report.png)
 
 8. **Customer Payment Records** – Displays customer payment information and transaction records.
-![SheOut List of Reports](sheout-sumpay-report.png)
+![SheOut List of Reports](sheout-sumpayment-report.png)
 
 9. **Bag Quantity by Size** – Shows the total quantity of bags across sizes XS, S, M, L and XL.
 ![SheOut List of Reports](sheout-bagbysize-report.png)
