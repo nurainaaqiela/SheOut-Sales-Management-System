@@ -22,7 +22,7 @@ Developed using **Microsoft Access**, the system brings together customer record
 | Normalisation | Third Normal Form (3NF) |
 | Database Structure | 6 related tables |
 | SQL Queries | 10 queries |
-| Report Outputs | 21 reports |
+| System Interfaces | Login, Main Menu, List of Forms and List of Report |
 | Project Type | Academic Group Project |
 | Year | 2023 |
 
@@ -155,22 +155,20 @@ Users can add, save, edit, delete and navigate records through the available for
 ![SheOut Data Entry Forms](sheout-bag-form.png)
 ![SheOut Data Entry Forms](sheout-sales-form.png)
 ![SheOut Data Entry Forms](sheout-payment-form.png)
+![SheOut Data Entry Forms](sheout-product-form.png)
+![SheOut Data Entry Forms](sheout-material-form.png)
 
 ### Available Reports
 
-The system also provides a dedicated list of available reports, making it easier to identify and access the different report outputs.
-
-These reports cover various aspects of the business, including customer, product, inventory and sales information.
+The system includes a **List of Report** interface that displays the different types of report available. This provide users with an organized way to identify and select the reports they need. 
 
 ![SheOut List of Reports](sheout-main-report-form.png)
 
 ### Report Generation
 
-The reporting interface provides access to **21 report outputs** presenting different types of business information.
+The system generates reports containing business information related to customer records, products, inventory and sales transactions. These outputs present database information in a more organised and accessible format.
 
-These reports support the retrieval and presentation of customer, product, inventory and sales records.
-
-![SheOut Sales Reports](sheout-sales-form.png)
+####
 
 ## 🌟 06. Project Highlights
 
@@ -183,8 +181,8 @@ The project brought together relational database design, SQL querying and Micros
 | Normalisation | Third Normal Form (3NF) |
 | SQL Development | 10 SQL queries |
 | Data Management | 6 data-entry forms |
-| Reporting | 21 report outputs |
-| System Interface | Login page and main navigation menu |
+| System Interfaces | Login, Main Menu, List of Forms and List of Report |
+| Reporting | Generated business reports |
 
 ### Key Takeaways
 
